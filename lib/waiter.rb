@@ -15,7 +15,7 @@ def self.all
 end
 
 def new_meal 
-  
+  Customer.new_meal
 end
 
 def meals
