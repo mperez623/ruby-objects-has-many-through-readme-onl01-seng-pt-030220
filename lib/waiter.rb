@@ -24,5 +24,6 @@ def meals
   end
 end
 
+def best_tipper
 
 end
