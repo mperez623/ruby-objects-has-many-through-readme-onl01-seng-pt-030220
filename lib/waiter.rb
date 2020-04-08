@@ -15,7 +15,7 @@ def self.all
 end
 
 def new_meal(name, total, tip=0)
-  Customer.new_meal
+  
 end
 
 def meals
